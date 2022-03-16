@@ -1,0 +1,6 @@
+test
+executable
+libasm.so
+*.o
+ex_test
+a.out
